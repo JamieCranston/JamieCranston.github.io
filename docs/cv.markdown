@@ -1,5 +1,7 @@
 ---
-layout: page
+layout: default
 title: CV
-permalink: /CV
+permalink: /CV/
 ---
+
+CV item 1
