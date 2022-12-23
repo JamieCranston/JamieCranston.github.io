@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: CV
+  link: /CV/
+- name: Publications
+  link: /Publications/ 
